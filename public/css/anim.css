@@ -5,7 +5,7 @@
 
 
 #carrer{
-    animation: carrer 5s infinite;
+    animation: carrer 5s infinite alternate;
 }
 
 @keyframes barre{

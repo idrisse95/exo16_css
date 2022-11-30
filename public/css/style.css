@@ -58,3 +58,6 @@ justify-content: center;
             transform: rotateZ(80deg);
           }
     
+          div>div{
+            margin-left: 10px
+          }
