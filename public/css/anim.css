@@ -1,11 +1,11 @@
 #barre{
-    animation: barre 5s infinite alternate ;
+    animation: barre 2s infinite alternate ;
     position: relative;
 }
 
 
 #carrer{
-    animation: carrer 5s infinite alternate;
+    animation: carrer 2s infinite alternate;
 }
 
 @keyframes barre{
