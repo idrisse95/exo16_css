@@ -10,9 +10,34 @@
     border: 1px solid;
 }
 
+
+
 .flip{
+display: flex;
+align-items: center;
+justify-content: center;
+    margin-top: 100px;
     width: 100px;
     height: 100px;
     background-color: lightblue;
     transition-duration: 1s;
 }
+.pass:hover .flip{
+    transform: rotateY(180deg);
+  }
+
+
+
+  .flipDeux{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+        margin-top: 100px;
+        width: 100px;
+        height: 100px;
+        background-color: lightblue;
+        transition-duration: 1s;
+    }
+    .passDeux:hover .flip{
+        transform: rotateX(180deg);
+      }
