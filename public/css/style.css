@@ -44,7 +44,7 @@ justify-content: center;
 
       
 
-      .flipDeux{
+      .flipTrois{
         display: flex;
         align-items: center;
         justify-content: center;
@@ -54,7 +54,7 @@ justify-content: center;
             background-color: lightblue;
             transition-duration: 1s;
         }
-        .passDeux:hover .flipDeux{
-            transform: rotateX(180deg);
+        .passTrois:hover .flipTrois{
+            transform: rotateZ(80deg);
           }
     
