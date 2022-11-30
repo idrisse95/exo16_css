@@ -38,6 +38,6 @@ justify-content: center;
         background-color: lightblue;
         transition-duration: 1s;
     }
-    .passDeux:hover .flip{
+    .passDeux:hover .flipDeux{
         transform: rotateX(180deg);
       }
